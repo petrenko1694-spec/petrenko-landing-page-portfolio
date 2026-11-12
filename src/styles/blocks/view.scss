@@ -63,7 +63,7 @@
   &__image-link {
     position: relative;
 
-    @include hover(transform, scale(1.2));
+    @include hover(transform, scale(1.06));
 
     &--wide {
       @include tablet {
