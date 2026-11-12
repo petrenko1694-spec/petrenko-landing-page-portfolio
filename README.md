@@ -2,9 +2,9 @@
 
 A responsive landing page inspired by The Metropolitan Museum of Art. It brings visitor information and featured museum content together in a compact, mobile-friendly experience.
 
-This project is based on the <a href="https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&amp;p=f" target="_blank" rel="noopener noreferrer">THE MET design in Figma</a>.
+This project is based on the [THE MET design in Figma](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f).
 
-<a href="https://petrenko1694-spec.github.io/petrenko-landing-page-portfolio/" target="_blank" rel="noopener noreferrer">View the live demo</a>
+[View the live demo](https://petrenko1694-spec.github.io/petrenko-landing-page-portfolio/)
 
 ## Features
 
